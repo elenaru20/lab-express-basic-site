@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
+
+
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Big Shoulders Display', cursive;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+.section1 {
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.taylor {
+    margin: 2rem 4rem;
+}
+
+a {
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+    justify-content: center;
+    text-align: center;
+    font-size: 2rem;
+    text-decoration: none;
+    color: #a10223;
+}
